@@ -1,0 +1,677 @@
+
+              body{
+                background:linear-gradient(35deg,#fcfffcdb,#32b7eb);
+                background-position: center;
+                background-attachment: scroll;
+                background-size: cover;
+            }
+    
+            .C3{
+                color: black;
+                position: fixed;
+                font-weight: bold;
+                width: 50px;
+                height: 300px;
+                padding-right: 10px;
+                padding-left: 10px;
+                background-color: white;
+                cursor: pointer;
+                left: 250px;
+                padding-bottom: 5px;
+                padding-top: 260px;
+                text-align: center;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+            }
+            .D3{
+                color: black;
+                position: fixed;
+                font-weight: bold;
+                width: 50px;
+                height: 300px;
+                padding-right: 10px;
+                padding-left: 10px;
+                background-color: white;
+                cursor: pointer;
+                left: 300px;
+                padding-bottom: 5px;
+                padding-top: 260px;
+                text-align: center;
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .E3{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color: black;
+                font-weight: bold;
+                position: fixed;
+                width: 50px;
+                height: 300px;
+                padding-right: 10px;
+                padding-left: 10px;
+                background-color: white;
+                cursor: pointer;
+                left: 350px;
+                padding-bottom: 5px;
+                padding-top: 260px;
+                text-align: center;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .F3{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color: black;
+                font-weight: bold;
+                position: fixed;
+                width: 50px;
+                height: 300px;
+                padding-right: 10px;
+                padding-left: 10px;
+                background-color: white;
+                cursor: pointer;
+                left: 400px;
+                padding-bottom: 5px;
+                padding-top: 260px;
+                text-align: center;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .G3{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color: black;
+                position: fixed;
+                font-weight: bold;
+                width: 50px;
+                height: 300px;
+                padding-right: 10px;
+                padding-left: 10px;
+                background-color: white;
+                cursor: pointer;
+                left: 450px;
+                padding-bottom: 5px;
+                padding-top: 260px;
+                text-align: center;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .A3{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color: black;
+                position: fixed;
+                font-weight: bold;
+                width: 50px;
+                height: 300px;
+                padding-right: 10px;
+                padding-left: 10px;
+                background-color: white;
+                cursor: pointer;
+                left: 500px;
+                padding-bottom: 5px;
+                padding-top: 260px;
+                text-align: center;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .B3{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color: black;
+                position: fixed;
+                font-weight: bold;
+                width: 50px;
+                height: 300px;
+                padding-right: 10px;
+                padding-left: 10px;
+                background-color: white;
+                cursor: pointer;
+                left: 550px;
+                padding-bottom: 5px;
+                padding-top: 260px;
+                text-align: center;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .C4{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color: black;
+                position: fixed;
+                font-weight: bold;
+                width: 50px;
+                height: 300px;
+                padding-right: 10px;
+                padding-left: 10px;
+                background-color: white;
+                cursor: pointer;
+                left: 600px;
+                padding-bottom: 5px;
+                padding-top: 260px;
+                text-align: center;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .D4{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color: black;
+                position: fixed;
+                font-weight: bold;
+                width: 50px;
+                height: 300px;
+                padding-right: 10px;
+                padding-left: 10px;
+                background-color: white;
+                cursor: pointer;
+                left: 650px;
+                padding-bottom: 5px;
+                padding-top: 260px;
+                text-align: center;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .E4{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color: black;
+                position: fixed;
+                font-weight: bold;
+                width: 50px;
+                height: 300px;
+                padding-right: 10px;
+                padding-left: 10px;
+                background-color: white;
+                cursor: pointer;
+                left: 700px;
+                padding-bottom: 5px;
+                padding-top: 260px;
+                text-align: center;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .F4{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color: black;
+                position: fixed;
+                font-weight: bold;
+                width: 50px;
+                height: 300px;
+                padding-right: 10px;
+                padding-left: 10px;
+                background-color: white;
+                cursor: pointer;
+                left: 750px;
+                padding-bottom: 5px;
+                padding-top: 260px;
+                text-align: center;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .G4{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color: black;
+                position: fixed;
+                font-weight: bold;
+                width: 50px;
+                height: 300px;
+                padding-right: 10px;
+                padding-left: 10px;
+                background-color: white;
+                cursor: pointer;
+                left: 800px;
+                padding-bottom: 5px;
+                padding-top: 260px;
+                text-align: center;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .A4{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color: black;
+                position: fixed;
+                font-weight: bold;
+                width: 50px;
+                height: 300px;
+                padding-right: 10px;
+                padding-left: 10px;
+                background-color: white;
+                cursor: pointer;
+                left: 850px;
+                padding-bottom: 5px;
+                padding-top: 260px;
+                text-align: center;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .B4{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color: black;
+                position: fixed;
+                font-weight: bold;
+                width: 50px;
+                height: 300px;
+                padding-right: 10px;
+                padding-left: 10px;
+                background-color: white;
+                cursor: pointer;
+                left: 900px;
+                padding-bottom: 5px;
+                padding-top: 260px;
+                text-align: center;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .C5{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color: black;
+                position: fixed;
+                font-weight: bold;
+                width: 50px;
+                height: 300px;
+                padding-right: 10px;
+                padding-left: 10px;
+                background-color: white;
+                cursor: pointer;
+                left: 950px;
+                padding-bottom: 5px;
+                padding-top: 260px;
+                text-align: center;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .D5{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color: black;
+                position: fixed;
+                font-weight: bold;
+                width: 50px;
+                height: 300px;
+                padding-right: 10px;
+                padding-left: 10px;
+                background-color: white;
+                cursor: pointer;
+                left: 1000px;
+                padding-bottom: 5px;
+                padding-top: 260px;
+                text-align: center;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .E5{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color: black;
+                position: fixed;
+                font-weight: bold;
+                width: 50px;
+                height: 300px;
+                padding-right: 10px;
+                padding-left: 10px;
+                background-color: white;
+                cursor: pointer;
+                left: 1050px;
+                padding-bottom: 5px;
+                padding-top: 260px;
+                text-align: center;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .F5{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color: black;
+                position: fixed;
+                font-weight: bold;
+                width: 50px;
+                height: 300px;
+                padding-right: 10px;
+                padding-left: 10px;
+                background-color: white;
+                cursor: pointer;
+                left: 1100px;
+                padding-bottom: 5px;
+                padding-top: 260px;
+                text-align: center;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .G5{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color: black;
+                position: fixed;
+                font-weight: bold;
+                width: 50px;
+                height: 300px;
+                padding-right: 10px;
+                padding-left: 10px;
+                background-color: white;
+                cursor: pointer;
+                left: 1150px;
+                padding-bottom: 5px;
+                padding-top: 260px;
+                text-align: center;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .A5{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color: black;
+                position: fixed;
+                font-weight: bold;
+                width: 50px;
+                height: 300px;
+                padding-right: 10px;
+                padding-left: 10px;
+                background-color: white;
+                cursor: pointer;
+                left: 1200px;
+                padding-bottom: 5px;
+                padding-top: 260px;
+                text-align: center;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .B5{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color: black;
+                position: fixed;
+                font-weight: bold;
+                width: 50px;
+                height: 300px;
+                padding-right: 10px;
+                padding-left: 10px;
+                background-color: white;
+                cursor: pointer;
+                left: 1250px;
+                padding-bottom: 5px;
+                padding-top: 260px;
+                text-align: center;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .CS3_Note{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color:white;
+                position: fixed;
+                font-weight: bold;
+                padding-top: 190px;
+                padding-bottom: 20px;
+                padding-right: 5px;
+                padding-left: 5px;
+                background-color:black;
+                cursor: pointer;
+                left: 280px;
+                width: 35px;
+                height: 50px;
+                text-align: left;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .DS3_Note{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color:white;
+                position: fixed;
+                font-weight: bold;
+                padding-top: 190px;
+                padding-bottom: 20px;
+                padding-right: 5px;
+                padding-left: 5px;
+                background-color:black;
+                cursor: pointer;
+                left: 330px;
+                width: 35px;
+                height: 50px;
+                text-align: left;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .FS3_Note{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color:white;
+                position: fixed;
+                font-weight: bold;
+                padding-top: 190px;
+                padding-bottom: 20px;
+                padding-right: 5px;
+                padding-left: 5px;
+                background-color:black;
+                cursor: pointer;
+                left: 430px;
+                width: 35px;
+                height: 50px;
+                text-align: left;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .GS3_Note{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color:white;
+                position: fixed;
+                font-weight: bold;
+                padding-top: 190px;
+                padding-bottom: 20px;
+                padding-right: 5px;
+                padding-left: 5px;
+                background-color:black;
+                cursor: pointer;
+                left: 480px;
+                width: 35px;
+                height: 50px;
+                text-align: left;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .AS3_Note{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color:white;
+                position: fixed;
+                font-weight: bold;
+                padding-top: 190px;
+                padding-bottom: 20px;
+                padding-right: 5px;
+                padding-left: 5px;
+                background-color:black;
+                cursor: pointer;
+                left: 530px;
+                width: 35px;
+                height: 50px;
+                text-align: left;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .CS4_Note{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color:white;
+                position: fixed;
+                font-weight: bold;
+                padding-top: 190px;
+                padding-bottom: 20px;
+                padding-right: 5px;
+                padding-left: 5px;
+                background-color:black;
+                cursor: pointer;
+                left: 630px;
+                width: 35px;
+                height: 50px;
+                text-align: left;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .DS4_Note{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color:white;
+                position: fixed;
+                font-weight: bold;
+                padding-top: 190px;
+                padding-bottom: 20px;
+                padding-right: 5px;
+                padding-left: 5px;
+                background-color:black;
+                cursor: pointer;
+                left: 680px;
+                width: 35px;
+                height: 50px;
+                text-align: left;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .FS4_Note{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color:white;
+                position: fixed;
+                font-weight: bold;
+                padding-top: 190px;
+                padding-bottom: 20px;
+                padding-right: 5px;
+                padding-left: 5px;
+                background-color:black;
+                cursor: pointer;
+                left: 780px;
+                width: 35px;
+                height: 50px;
+                text-align: left;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .GS4_Note{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color:white;
+                font-weight: bold;
+                position: fixed;
+                padding-top: 190px;
+                padding-bottom: 20px;
+                padding-right: 5px;
+                padding-left: 5px;
+                background-color:black;
+                cursor: pointer;
+                left: 830px;
+                width: 35px;
+                height: 50px;
+                text-align: left;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .AS4_Note{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color:white;
+                font-weight: bold;
+                position: fixed;
+                padding-top: 190px;
+                padding-bottom: 20px;
+                padding-right: 5px;
+                padding-left: 5px;
+                background-color:black;
+                cursor: pointer;
+                left: 880px;
+                width: 35px;
+                height: 50px;
+                text-align: left;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .CS5_Note{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color:white;
+                position: fixed;
+                font-weight: bold;
+                padding-top: 190px;
+                padding-bottom: 20px;
+                padding-right: 5px;
+                padding-left: 5px;
+                background-color:black;
+                cursor: pointer;
+                left: 980px;
+                width: 35px;
+                height: 50px;
+                text-align: left;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .DS5_Note{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color:white;
+                position: fixed;
+                font-weight: bold;
+                padding-top: 190px;
+                padding-bottom: 20px;
+                padding-right: 5px;
+                padding-left: 5px;
+                background-color:black;
+                cursor: pointer;
+                left: 1030px;
+                width: 35px;
+                height: 50px;
+                text-align: left;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .FS5_Note{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color:white;
+                position: fixed;
+                font-weight: bold;
+                padding-top: 190px;
+                padding-bottom: 20px;
+                padding-right: 5px;
+                padding-left: 5px;
+                background-color:black;
+                cursor: pointer;
+                left: 1130px;
+                width: 35px;
+                height: 50px;
+                text-align: left;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .GS5_Note{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color:white;
+                position: fixed;
+                font-weight: bold;
+                padding-top: 190px;
+                padding-bottom: 20px;
+                padding-right: 5px;
+                padding-left: 5px;
+                background-color:black;
+                cursor: pointer;
+                left: 1180px;
+                width: 35px;
+                height: 50px;
+                text-align: left;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            .AS5_Note{
+                box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+                color:white;
+                position: fixed;
+                font-weight: bold;
+                padding-top: 190px;
+                padding-bottom: 20px;
+                padding-right: 5px;
+                padding-left: 5px;
+                background-color:black;
+                cursor: pointer;
+                left: 1230px;
+                width: 35px;
+                height: 50px;
+                text-align: left;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius: 10px;
+            }
+            
+           #switch{
+            color:whitesmoke;
+            font-family:monospace;
+            background-color: rgb(19 19 19);
+            block-size: 50px;
+            width: 200px;
+            text-align: center;
+            text-size-adjust: 10px;
+            position:relative;
+            left:700px;
+            top:400px;
+           }
+           
+           P{
+            position:relative;
+            top:480px;
+            width:300px;            
+            font-family:monospace;
+            font-size:20px;
+           }
